@@ -1,0 +1,33 @@
+{
+    "rutas": [{
+        "ruta": "gatitos",
+        "imagen": "assets/gatos-persa.jpg",
+        "descripcion_1": "El labrador retriever es una raza canina originaria de Terranova, en la actual Canadá. Es una de las razas más populares del mundo por la cantidad de ejemplares registrados.​​​ La raza no se originó en la península de Labrador, sino en las costas de Terranova en el siglo XVII. Se los entrenó para traer las redes a los pescadores a través de las aguas heladas y, a principios del s. XIX, llegaron a Poole Harbour (Gran Bretaña). Gustaron tanto que a los pescadores les llovían las ofertas de los ingleses para comprarlos. La raza se adaptó inmediatamente a la caza con escopeta. El conde de Malmesbury se sintió fascinado por estos perros, conocidos en la época como perros de agua de San Juan, y empezó a criarlos con el nombre de Labrador.",
+        "background": "assets/persa.gif",
+        "raza": "Perza"
+    }, {
+        "ruta": "gatitos",
+        "imagen": "assets/bengala.jpg",
+        "descripcion_1": "Sin embargo, muchas personas deciden llevar un Husky a su hogar sin conocer las necesidades de la raza o las peculiaridades, ya que al ser un perro cuya naturaleza es el clima frío y las actividades de trineo, necesita cuidados especiales si se piensa domesticar en un ambiente distinto.",
+        "background": "assets/bengala.gif",
+        "raza": "Bengala"
+    }, {
+        "ruta": "gatitos",
+        "imagen": "assets/maincom.jpg",
+        "descripcion_1": "El labrador retriever es una raza canina originaria de Terranova, en la actual Canadá. Es una de las razas más populares del mundo por la cantidad de ejemplares registrados.​​​ La raza no se originó en la península de Labrador, sino en las costas de Terranova en el siglo XVII. Se los entrenó para traer las redes a los pescadores a través de las aguas heladas y, a principios del s. XIX, llegaron a Poole Harbour (Gran Bretaña). Gustaron tanto que a los pescadores les llovían las ofertas de los ingleses para comprarlos. La raza se adaptó inmediatamente a la caza con escopeta. El conde de Malmesbury se sintió fascinado por estos perros, conocidos en la época como perros de agua de San Juan, y empezó a criarlos con el nombre de Labrador.",
+        "background": "assets/maincom.gif",
+        "raza": "Maine Coon"
+    }, {
+        "ruta": "gatitos",
+        "imagen": "assets/simaes.jpg",
+        "descripcion_1": "El labrador retriever es una raza canina originaria de Terranova, en la actual Canadá. Es una de las razas más populares del mundo por la cantidad de ejemplares registrados.​​​ La raza no se originó en la península de Labrador, sino en las costas de Terranova en el siglo XVII. Se los entrenó para traer las redes a los pescadores a través de las aguas heladas y, a principios del s. XIX, llegaron a Poole Harbour (Gran Bretaña). Gustaron tanto que a los pescadores les llovían las ofertas de los ingleses para comprarlos. La raza se adaptó inmediatamente a la caza con escopeta. El conde de Malmesbury se sintió fascinado por estos perros, conocidos en la época como perros de agua de San Juan, y empezó a criarlos con el nombre de Labrador.",
+        "background": "assets/simaes.gif",
+        "raza": "Gato siamés"
+    }, {
+        "ruta": "gatitos",
+        "imagen": "assets/ragdoll.jpg",
+        "descripcion_1": "El labrador retriever es una raza canina originaria de Terranova, en la actual Canadá. Es una de las razas más populares del mundo por la cantidad de ejemplares registrados.​​​ La raza no se originó en la península de Labrador, sino en las costas de Terranova en el siglo XVII. Se los entrenó para traer las redes a los pescadores a través de las aguas heladas y, a principios del s. XIX, llegaron a Poole Harbour (Gran Bretaña). Gustaron tanto que a los pescadores les llovían las ofertas de los ingleses para comprarlos. La raza se adaptó inmediatamente a la caza con escopeta. El conde de Malmesbury se sintió fascinado por estos perros, conocidos en la época como perros de agua de San Juan, y empezó a criarlos con el nombre de Labrador.",
+        "background": "assets/ragdoll.gif",
+        "raza": "Ragdoll"
+    }]
+}
